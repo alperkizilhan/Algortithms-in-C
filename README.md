@@ -1,2 +1,2 @@
-# Algortithms-in-C
+# Algorithms-in-C
 Codes and algorithms written in C language
